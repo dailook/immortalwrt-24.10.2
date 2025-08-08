@@ -47,7 +47,7 @@
 
   ### 快速入门
   1. 运行 `git clone https://github.com/dailook/immortalwrt-24.10.2` 以克隆源代码。
-  2. 运行 `cd immortalwrt-24.10` 进入源目录。
+  2. 运行 `cd immortalwrt-24.10.2` 进入源目录。
   3. 运行 `./scripts/feeds update -a` 以获取 feeds.conf / feeds.conf.default 中定义的所有最新包定义
   4. 运行 `./scripts/feeds install -a` 安装所有获取的软件包的符号链接至 package/feeds/
   5. 运行 `make menuconfig` 以选择工具链、目标系统和固件包的首选配置。
